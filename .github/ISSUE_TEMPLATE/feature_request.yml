@@ -1,0 +1,16 @@
+name: Feature idea
+description: Something MathGen should do
+labels: [enhancement]
+body:
+  - type: textarea
+    id: need
+    attributes:
+      label: What do you need to do?
+      description: Describe the task (for example "write chemical equations for class 9") rather than a solution.
+    validations:
+      required: true
+  - type: textarea
+    id: example
+    attributes:
+      label: Example
+      description: An equation, a textbook page or a screenshot that shows it.

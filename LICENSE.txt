@@ -1,0 +1,36 @@
+MathGen Freeware Licence
+
+Copyright (c) 2026 Bilal Amjad. All rights reserved.
+https://github.com/Thedevelop3r/MathGen-Releases
+
+MathGen is free of charge. By installing or using it you accept this licence.
+
+1. You may, free of charge:
+   a. install and use MathGen on any number of computers, for any purpose,
+      including at schools, universities and workplaces;
+   b. copy and share the official downloads (the installer or the portable
+      zip) unchanged, for example on a USB stick, a school network or a
+      website, as long as you do not charge for them and this licence stays
+      with them.
+
+2. You may not:
+   a. sell MathGen, charge for it, or include it in a product or service you
+      charge for, without written permission from the copyright holder;
+   b. modify, decompile, disassemble or reverse engineer MathGen, except
+      where the law allows this despite this restriction;
+   c. remove or change copyright notices, this licence or the publisher's
+      name, or present MathGen as your own work.
+
+3. Your equations, pictures and documents made with MathGen belong to you.
+
+4. MathGen includes third-party components and fonts under their own
+   licences, listed in THIRD_PARTY_LICENSES.txt and the font licence files.
+   Nothing in this licence limits the rights those licences give you.
+
+5. MathGen is provided "as is", without warranty of any kind, express or
+   implied, including fitness for a particular purpose. In no event shall the
+   copyright holder be liable for any claim, damages or other liability
+   arising from the use of MathGen, to the extent the law allows.
+
+6. This licence ends automatically if you break its terms; you must then
+   delete your copies of MathGen.
