@@ -42,6 +42,27 @@ installs without this warning.
 Press **F1** in MathGen for the Quick Start guide, and **Ctrl+K** to find
 any command, symbol, formula or tool.
 
+## How it looks
+
+<a href="screenshots/1-step-by-step-solver.png"><img src="screenshots/1-step-by-step-solver.png" width="100%" alt="Solving a quadratic step by step, with the explanation"></a>
+
+*Solve step by step: every step explained and checked, and the working copied in one click.*
+
+<table>
+<tr>
+<td width="50%"><a href="screenshots/10-calculator-graphs.png"><img src="screenshots/10-calculator-graphs.png" width="100%" alt="The Calculator tab: a textbook display, 13 modes and graphs"></a><br><sub>The Calculator tab: a textbook display, 13 modes and graphs</sub></td>
+<td width="50%"><a href="screenshots/2-function-grapher.png"><img src="screenshots/2-function-grapher.png" width="100%" alt="Graph functions with sliders: roots, turning points, intersections"></a><br><sub>Graph functions with sliders: roots, turning points, intersections</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="screenshots/3-board-instruments.png"><img src="screenshots/3-board-instruments.png" width="100%" alt="The Board, with a protractor, ruler, set squares and compasses"></a><br><sub>The Board, with a protractor, ruler, set squares and compasses</sub></td>
+<td width="50%"><a href="screenshots/5-live-lessons.png"><img src="screenshots/5-live-lessons.png" width="100%" alt="Live lessons: share your MathGen with up to 200 students"></a><br><sub>Live lessons: share your MathGen with up to 200 students</sub></td>
+</tr>
+<tr>
+<td width="50%"><a href="screenshots/9-tools-hub.png"><img src="screenshots/9-tools-hub.png" width="100%" alt="The Tools hub (Ctrl+T): 36 maths tools"></a><br><sub>The Tools hub (Ctrl+T): 36 maths tools</sub></td>
+<td width="50%"><a href="screenshots/8-urdu-interface.png"><img src="screenshots/8-urdu-interface.png" width="100%" alt="Also in Urdu, right to left"></a><br><sub>Also in Urdu, right to left</sub></td>
+</tr>
+</table>
+
 ## What it does
 
 - **Equations**: fractions, roots, scripts, brackets that grow, sums,
